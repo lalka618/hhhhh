@@ -1,1 +1,1 @@
-print("Привет, программист")
+print("Привет,gggggggggggggg")
